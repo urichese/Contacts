@@ -6,6 +6,7 @@
 
 Скрин приложения:
 
-<img width="346" alt="image" src="https://user-images.githubusercontent.com/82948283/191338512-a97945db-a2ac-4424-87a5-425cfa94cf81.png">
+<img width="311" alt="image" src="https://user-images.githubusercontent.com/82948283/192042294-339a7bb8-de3b-40d4-91c7-d6e66ff7d02c.png">
+
 
 
